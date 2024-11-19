@@ -60,7 +60,7 @@ Authors@R: c(
     person(given = "Vini",
            family = "Salazar",
            role = c("ctb"),
-           email = "vinicius.salazar@unimelb.edu.au"
+           email = "vinicius.salazar@unimelb.edu.au"),
     person()
     )
 Description: This package does nothing but contain template HTML CSS and JS files.
