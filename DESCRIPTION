@@ -56,6 +56,11 @@ Authors@R: c(
     person(given = "Sheargrub",
            role = c("ctb"),
            email = "sheargrub@gmail.com"),
+           email = "cs.matthewarmstrong@gmail.com"),       
+    person(given = "Vini",
+           family = "Salazar",
+           role = c("ctb"),
+           email = "vinicius.salazar@unimelb.edu.au"
     person()
     )
 Description: This package does nothing but contain template HTML CSS and JS files.
@@ -63,6 +68,6 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.2
-URL: https://carpentries.github.io/varnish/
-BugReports: https://github.com/carpentries/varnish/issues/
+RoxygenNote: 7.1.2
+URL: https://melbournebioinformatics.github.io/mb-varnish/
+BugReports: https://github.com/melbournebioinformatics/mb-varnish/issues/
