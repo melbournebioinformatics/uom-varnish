@@ -1,4 +1,23 @@
-# varnish 1.0.5 (2024-11-11)
+# varnish 1.0.7.9000
+
+## MISC
+
+* Fix pak install when trying to parse .editorconfig files (@froggleston)
+
+
+# varnish 1.0.6 [2025-05-06]
+
+## NEW FEATURES
+
+* Add support for dark mode image adjustment (@astroDimitrios, #153)
+
+## MISC
+
+* Update links to new Carpentries handbook (@robadob #164)
+* Improve h3 and h4 font sizes on large resolutions (@Sheargrub #165)
+
+
+# varnish 1.0.5 [2024-11-11]
 
 ## NEW FEATURES
 
@@ -21,7 +40,7 @@
 * Add @MttArmstrong as a new contributor - welcome!
 
 
-# varnish 1.0.4 (2024-08-23)
+# varnish 1.0.4 [2024-08-23]
 
 ## NEW FEATURES
 
