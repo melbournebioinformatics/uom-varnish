@@ -72,6 +72,7 @@
 body {
   font-family: $default_font, sans serif;
   font-weight: $font_weight_normal;
+  color: $black;
 }
 
 h1 {
@@ -234,11 +235,49 @@ dt > * {
   max-width: 100%;
 }
 
-.figcaption {
+figcaption {
   border-top: 1px solid $black;
   background: $light-gray;
   margin-bottom: 25px;
   padding: 25px;
+}
+
+.mermaid-img-wrapper {
+  margin-bottom: 1em;
+  border-color: $light-gray;
+  border-width: 1px;
+  border-style: solid;
+
+  // No gap between the figcaption
+  // and the details dropdown
+  figure {
+    margin-bottom: 0px;
+  }
+  figcaption {
+    background: $light-gray;
+    margin-bottom: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-top: 1px solid $black;
+    background: $light-gray;
+  }
+  details {
+    background: $light-gray;
+    padding: 0px 25px 25px 25px;
+  }
+}
+
+// Center mermaid svgs
+.mermaid {
+  text-align: center;
+  padding-bottom: 1em;
+  svg {
+    min-height: 15vh;
+    max-height: 80vh;
+    max-width: 95% !important;
+  }
 }
 
 .section-heading {
@@ -300,9 +339,12 @@ dt > * {
   margin-right: 10px !important;
 }
 
+li {
+  color: $black;
+}
+
 p > li {
   margin-bottom: 10px;
-  color: $black;
 }
 
 @include media-breakpoint-up(xl) {
