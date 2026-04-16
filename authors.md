@@ -32,7 +32,7 @@
 
 - **Sheargrub**. Contributor.
 
-- **Vini Salazar**. Contributor.
+- **Jose Niño Muriel**. Contributor.
 
 ## Citation
 
@@ -40,13 +40,13 @@ Source:
 [`DESCRIPTION`](https://github.com/melbournebioinformatics/uom-varnish/blob/main/DESCRIPTION)
 
 Davey R, Becker E, Kamvar Z (2026). *varnish: Front-end for The
-Carpentries Lesson Infrastructure*. R package version 1.0.9,
+Carpentries Lesson Infrastructure*. R package version 1.1.0,
 <https://melbournebioinformatics.github.io/uom-varnish/>.
 
     @Manual{,
       title = {varnish: Front-end for The Carpentries Lesson Infrastructure},
       author = {Robert Davey and Erin Becker and Zhian N. Kamvar},
       year = {2026},
-      note = {R package version 1.0.9},
+      note = {R package version 1.1.0},
       url = {https://melbournebioinformatics.github.io/uom-varnish/},
     }
