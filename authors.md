@@ -39,7 +39,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/melbournebioinformatics/uom-varnish/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/melbournebioinformatics/uom-varnish/blob/uom-v1.1.1/DESCRIPTION)
 
 Davey R, Becker E, Kamvar Z (2026). *varnish: Front-end for The
 Carpentries Lesson Infrastructure*. R package version 1.1.1,
