@@ -42,13 +42,13 @@ Source:
 [`DESCRIPTION`](https://github.com/melbournebioinformatics/uom-varnish/blob/main/DESCRIPTION)
 
 Davey R, Becker E, Kamvar Z (2026). *varnish: University of Melbourne
-Fork of The Carpentries Lesson Infrastructure*. R package version 1.1.1,
+Fork of The Carpentries Lesson Infrastructure*. R package version 1.1.2,
 <https://melbournebioinformatics.github.io/uom-varnish/>.
 
     @Manual{,
       title = {varnish: University of Melbourne Fork of The Carpentries Lesson Infrastructure},
       author = {Robert Davey and Erin Becker and Zhian N. Kamvar},
       year = {2026},
-      note = {R package version 1.1.1},
+      note = {R package version 1.1.2},
       url = {https://melbournebioinformatics.github.io/uom-varnish/},
     }
