@@ -19,6 +19,10 @@ This fork maintains its own release cycle independent of the upstream
 upstream releases as closely as practical, incorporating relevant upstream
 changes while preserving University of Melbourne branding and customisations.
 
+Fork releases are tagged with a `uom-` prefix (e.g. `uom-v1.1.2`) to avoid
+collisions with mirrored upstream tags. The version in `DESCRIPTION` reflects
+the current fork release and should be bumped to match each new tag.
+
 The html templates use [mustache templating
 language](https://mustache.github.io/mustache.5.html) while the CSS and
 JavaScript are compiled and minified on GitHub Actions.
