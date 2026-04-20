@@ -39,7 +39,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/melbournebioinformatics/uom-varnish/blob/uom-v1.1.2/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/melbournebioinformatics/uom-varnish/blob/main/DESCRIPTION)
 
 Davey R, Becker E, Kamvar Z (2026). *varnish: University of Melbourne
 Fork of The Carpentries Lesson Infrastructure*. R package version 1.1.2,
