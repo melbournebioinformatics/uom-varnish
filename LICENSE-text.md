@@ -1,4 +1,6 @@
 # License
 
-    YEAR: 2024
-    COPYRIGHT HOLDER: The University of Melbourne
+    YEAR: 2024-2026
+    COPYRIGHT HOLDER: The University of Melbourne (Melbourne Bioinformatics)
+
+    Original work copyright (c) The Carpentries (https://carpentries.org)
